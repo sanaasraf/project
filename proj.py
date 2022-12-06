@@ -16,8 +16,8 @@ an extra shift.
 
 # title
 print("hello!")
+print("Goodbye")
 print("---------------------------------\nVOLUNTEER MANAGEMENT FOR AN EVENT\n---------------------------------")
-
 
 # below are the lists that contain information about the initial names of the volunteers and available shifts
 
